@@ -23,4 +23,10 @@ This project is a Visitor Counter System built using ESP32 and an IR Sensor. The
 - Embedded Systems
 - Sensor Interfacing
 - Circuit Design
-- IoT Fundamentals[Visitor_Counter.pdf.pdf](https://github.com/user-attachments/files/29172440/Visitor_Counter.pdf.pdf)
+- IoT Fundamentals[Visitor_Counter.pdf (1).pdf](https://github.com/user-attachments/files/29172667/Visitor_Counter.pdf.1.pdf)
+
+## Working Principle
+The IR sensor detects a visitor passing through its sensing range. The ESP32 processes the sensor signal, updates the visitor count, and activates the buzzer. The relay module can be used for additional automation tasks.
+
+## Project Report
+Please refer to the attached PDF for hardware setup images and code screenshots.
